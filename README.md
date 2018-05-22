@@ -9,4 +9,4 @@ To run this code you will need the following modules: <br>
 To execute the classifier:<br>
   Download the repository and run BreastCancerClassification.py <br>
   
-Dataset: Pima Indians Diabetes Database by UCI Machine Learning
+Dataset: Breast Cancer Wisconsin(Diagnostic) Dataset by UCI Machine Learning
